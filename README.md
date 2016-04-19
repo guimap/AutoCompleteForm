@@ -1,6 +1,6 @@
 # Autocomplete Form
 
-Auto complete Form é um plugin para autocompletar os campos de endereço a partir do cep de forma facil
+Autocompletar os campos de endereço a partir do cep de forma facil.
 
 Eg:
 ```sh
@@ -13,10 +13,9 @@ $('form').autocompleteCep({
 });
 ```
 
-> Para os campos de CEP, é obrigatório
+> Para os campos de CEP, é obrigatório.
 > Siga o exemplo a cima
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
-### Version  
+### Version
 0.0.1
